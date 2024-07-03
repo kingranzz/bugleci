@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.botName = "puki :"
 global.ownerName = "siwa :"
 global.ownerBot = "6282393734303"
-global.ownerNumber = ["6282393734303"] 
+global.ownerNumber = ["6282393734303", "6282320704514"] 
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
